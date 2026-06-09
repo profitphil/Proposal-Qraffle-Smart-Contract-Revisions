@@ -34,12 +34,6 @@ These restrictions, while well-intentioned for security and spam prevention in t
 
 ## Technical Implementation
 
-**Developer:** [profitphil](https://github.com/profitphil) (with community input)
+**Developer:** https://github.com/double-k-3033
 
-This proposal would require a targeted smart contract revision (or new deployment) to revert only the specified changes. Full details and diff would be provided in the associated GitHub repository and reviewed by the community prior to voting.
-
-## Next Steps
-
-- Community discussion in Discord.
-- Technical review of the exact code changes.
-- On-chain vote via DAO proposal.
+Core implementation PR: https://github.com/qubic/core/pull/898
